@@ -27,8 +27,8 @@ and item-based collaborative filtering: given a question, kNN finds the closest 
 the correctness based on the closest question’s correctness.
 
 <div style="display:flex;">
-  <img src="https://github.com/JoshPugli/academic-aptitude-evaluator/assets/86436788/a65a82e9-366d-422e-9adb-8d7b89114901" alt="added_feature_item" style="width:50%;">
-  <img src="https://github.com/JoshPugli/academic-aptitude-evaluator/assets/86436788/71407193-7809-44da-9401-6070204580dc" alt="added_feature_user" style="width:50%;">
+  <img src="https://github.com/JoshPugli/academic-aptitude-evaluator/assets/86436788/a65a82e9-366d-422e-9adb-8d7b89114901" alt="added_feature_item" style="width:40%;">
+  <img src="https://github.com/JoshPugli/academic-aptitude-evaluator/assets/86436788/71407193-7809-44da-9401-6070204580dc" alt="added_feature_user" style="width:40%;">
 </div>
 
 
