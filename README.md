@@ -14,7 +14,6 @@ a student can correctly answer a specific diagnostic question based on the stude
 Predicting the correctness of students’ answers to as yet unseen diagnostic questions helps estimate the student’s ability level in a personalized education platform. 
 Moreover, these predictions form the groundwork for many advanced customized tasks. 
 For instance, using the predicted correctness, the we can automatically recommend a set of diagnostic questions of appropriate difficulty that fit the student’s background and learning status. 
-Source code can be accessed [here](https://github.com/JoshPugli/academic-aptitude-evaluator).
 
 I used kNN, Item Response Theory, and Neural Networks to and Random Forest classifiers to predict the correctness of students’ answers to diagnostic questions. 
 I also used the classifiers to predict the difficulty of diagnostic questions, and evauated the performance of the classifiers using the accuracy evaluation metric.
