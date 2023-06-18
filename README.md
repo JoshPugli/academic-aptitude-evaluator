@@ -32,7 +32,7 @@ the correctness based on the closest question’s correctness.
 
 
 
-Item Response Theory (IRT)
+## [Item Response Theory (IRT)](https://en.wikipedia.org/wiki/Item_response_theory)
 
 Neural Networks (NN)
 
